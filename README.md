@@ -47,7 +47,4 @@ This project analyzes and visualizes **global COVID-19 data** to track cases, de
 
 ---
 
-✅ **Checklist**:
-- [x] Notebook runs from start to finish without errors
-- [x] All plots render correctly
-- [x] README.md provides full project context
+
